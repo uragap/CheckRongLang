@@ -1,5 +1,4 @@
-msgid "And everyone thinks I dodged a bullet
-But I think I shot the gun"
+msgid "False"
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2020-03-19 11:19+0300\n"
